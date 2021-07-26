@@ -1,0 +1,290 @@
+.hr2{
+	border-top: 2px solid #D5D5D5;
+}
+
+.textarea-new{
+	width: 60%;
+}
+
+.radio-style{
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-top: 7px;
+}
+
+.banner-background{
+	padding: 2px;
+	background-color: #E7E7E7;
+}
+
+.div-banner{
+	opacity: 0.5;
+	position: absolute;
+	width: 711px;
+	margin-top: 187px;
+	margin-left: 3px;
+	height: 75px;
+	background-color: #E7E7E7;
+}
+
+.banner-text-background{
+	position: absolute;
+	width: 705px;
+	margin-top: 187px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+}
+
+.banner-text{
+	color: white;
+	text-shadow: 1px 1px 15px grey;
+}
+
+.banner-text-h4{
+	text-shadow: 1px 1px 8px white;
+}
+
+.img-banner-toko{
+	height: 265px;
+	width: 875px;
+}
+
+.btn-atur-toko{
+	float: right;
+	margin-top: -50px;
+	margin-right: 10px;
+	height: 23px;
+	width: 150px;
+	padding: 15px 10px 10px 10px;
+}
+
+.tab-content-new{
+	width: 100%;
+}
+
+.kontenutama{
+  background-color:;
+}
+
+.kontengambar{
+  -webkit-box-shadow:0 0 0px;
+}
+
+.infogambar{
+  width:150px;
+}
+
+.judul{
+  color: #069; padding:5px;
+}
+
+.harga{
+  color:orange; padding-bottom:3px;
+}
+
+.lokasi{
+   font-size:12px; padding-bottom:2px; float:left
+}
+
+.info{
+  font-size:12px; padding-bottom:2px; text-align: right;
+}
+
+.fotoproduk{
+	margin-left:0px;
+	margin-bottom:0px;
+}
+
+.fotoprodukdetail{
+	margin-left: 0px;
+}
+
+.thumbnail .galleryproduk-controls{
+position:absolute;
+z-index:1;
+margin-top:-30px;
+height:10px;
+min-height:10px;
+width:81px;
+padding:9px;
+background-color:#DF0707;
+}
+
+.thumbnail .galleryproduk-controls p{
+display:block;
+margin:auto;
+width:100%;
+}
+
+.thumbnail3 .galleryproduk-controls{
+position:absolute;
+z-index:1;
+margin-top:-30px;
+height:10px;
+min-height:10px;
+width:81px;
+padding:9px;
+background-color:#DF0707;
+}
+
+.thumbnail3 .galleryproduk-controls p{
+display:block;
+margin:auto;
+width:100%;
+}
+
+.thumbnail4 .galleryproduk-controls{
+position:absolute;
+z-index:1;
+margin-top:-30px;
+height:10px;
+min-height:10px;
+width:81px;
+padding:9px;
+background-color:#DF0707;
+}
+
+.thumbnail4 .galleryproduk-controls p{
+display:block;
+margin:auto;
+width:100%;
+}
+
+.wizardbackground{
+  	padding: 10px 10px 37px 10px;
+	background-color: #163346;
+	margin-top: -10px;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-bottom: 10px;
+	border-bottom: 1px solid white;
+}
+
+.ul-wizard{
+	list-style: none;
+	margin: 0 0 0 0;
+}
+
+.li-wizard{
+	list-style: none;
+	float: left;
+}
+
+.tab-content{
+	float: left;
+	margin-top: 20px;
+}
+
+.arrow{
+	margin-top: -7px;
+}
+
+.menuwizard{
+	background-color: #DDD;
+	padding-top: 10px;
+	margin-top: 25px;
+	margin-bottom: -15px;
+}
+
+.data-user{
+	color: #C4C4C4;
+}
+
+.select-pencarian{
+	padding:14px; 
+	height:50px;
+}
+
+.btn-cari{
+	width: 100px; 
+	padding:15.5px; 
+	margin: 0px 0px 0px 0px;
+}
+
+.cari-background{
+  padding: 5px;
+  background-color: #DDD;
+  float: right;
+}
+
+.modal-barang{
+	width: 1100px;
+	left: 31%;
+}
+
+.thumbnail img{
+	width: 73px;
+	height: 73px;
+}
+
+.thumbnail3 img{
+	width: 270px;
+	height: 100px;
+	padding: 5px;
+	border: 1px solid #D8D8D8;
+	margin-bottom: -24.8px;
+}
+
+.thumbnail4 img{
+	width: 270px;
+	height: 170px;
+	padding: 5px;
+	border: 1px solid #D8D8D8;
+	margin-bottom: -24.8px;
+}
+
+.thumbnails > li {
+	float: left;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 10px;
+}
+
+.thumbnails3 > li {
+	float: left;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 10px;
+}
+
+.thumbnails4 > li {
+	float: left;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 10px;
+}
+
+.pentagon {
+    position: relative;
+	width: 154px;
+	border-width: 100px 0px 0;
+	border-style: solid;
+	border-color: red transparent;
+}
+.pentagon:before {
+   	content: "";
+	position: absolute;
+	height: 0;
+	width: 0;
+	top: -99px;
+	left: 154px;
+	border-top: 50px solid transparent;
+	border-left: 30px solid red;
+	border-bottom: 50px solid transparent;
+}
+
+/*.permalink{
+	width:400px; 
+	font-size:11px; 
+	padding-left:5px; 
+	padding-right:5px;
+	padding-top:0px;
+	border: none;
+	background-color: inherit;
+}*/
+
+.shadow{
+	box-shadow: 1px 4px 8px #D6D6D6;
+	border: 1px solid #CACACA;
+}

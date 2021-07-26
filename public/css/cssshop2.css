@@ -1,0 +1,151 @@
+.pricing-table .plan {
+  border-radius: 1px;
+  text-align: left;
+  background-color: white;
+  border: 3px solid #EEE;
+  padding: 10px;
+}
+ 
+ .plan:hover{
+  background-color: #fff;
+  -moz-box-shadow: 0 0 12px 3px #b0b2ab;
+  -webkit-box-shadow: 0 0 12px 3px #b0b2ab;
+  box-shadow: 0 0 12px 3px #b0b2ab;
+  border: 3px solid #0093E6;
+}
+
+.plan:hover .detail-info-barang{
+  display : block;  
+}
+
+.detail-info-barang{ 
+  display: none;
+  position: absolute;
+  width: 152px;
+  z-index: 100;
+}
+
+.detail-info-barang:hover .btn-plan-select{
+  border: 1px solid white;
+}
+
+.nama-barang:hover{
+  color: #fff;
+}
+
+.plan {
+  padding: 10px;
+  color: #ff;
+  background-color: white;
+  -moz-border-radius: 1px 1px 0 0;
+  -webkit-border-radius: 1px 1px 0 0;
+  border-radius: 1px 1px 0 0;
+}
+  
+.plan-name-bronze {
+  padding: 20px;
+  color: #fff;
+  background-color: #665D1E;
+  -moz-border-radius: 1px 1px 0 0;
+  -webkit-border-radius: 1px 1px 0 0;
+  border-radius: 1px 1px 0 0;
+ }
+  
+.plan-name-silver {
+  text-align: center;
+  padding: 20px;
+  color: #fff;
+  background-color: #C5C5C5;
+  -moz-border-radius: 1px 1px 0 0;
+  -webkit-border-radius: 1px 1px 0 0;
+  border-radius: 1px 1px 0 0;
+ }
+  
+.plan-name-gold {
+  padding: 20px;
+  color: #fff;
+  background-color: #FFD700;
+  -moz-border-radius: 1px 1px 0 0;
+  -webkit-border-radius: 1px 1px 0 0;
+  border-radius: 1px 1px 0 0;
+  } 
+  
+.pricing-table-bronze  {
+  padding: 20px;
+  color: #fff;
+  background-color: #f89406;
+  -moz-border-radius: 1px 1px 0 0;
+  -webkit-border-radius: 1px 1px 0 0;
+  border-radius: 1px 1px 0 0;
+}
+  
+.pricing-table .plan .plan-name span {
+  font-size: 20px;
+}
+ 
+.pricing-table .plan ul {
+  list-style: none;
+  margin: 0;
+  -moz-border-radius: 1px 1px 0 0;
+  -webkit-border-radius: 1px 1px 0 0;
+  border-radius: 1px 1px 0 0;
+}
+ 
+.pricing-table .plan ul li.plan-feature {
+  padding: 10px 0px;
+  border-top: 1px solid #c5c8c0;
+}
+ 
+.pricing-three-column {
+  margin: 0 auto;
+  width: 80%;
+}
+ 
+.pricing-variable-height .plan {
+  float: none;
+  margin-left: 2%;
+  vertical-align: bottom;
+  display: inline-block;
+  zoom:1;
+  *display:inline;
+}
+ 
+.plan-mouseover .plan-name {
+  background-color: #4e9a06 !important;
+}
+ 
+.btn-plan-select {
+  padding: 8px 5px;
+  font-size: 10px;
+}
+
+.button{
+  float:left;
+}
+
+.border-circle-baru{
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  background-color: #0F6CAA;
+  position: absolute;
+  margin-left: -15px;
+  margin-top: -15px;
+  border: 3px solid;
+}
+
+.border-circle-bekas{
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  background-color: #4895C9;
+  position: absolute;
+  margin-left: -15px;
+  margin-top: -15px;
+  border: 3px solid;
+}
+
+.border-font{
+  padding-top: 15px;
+  font-weight: bold;
+}
